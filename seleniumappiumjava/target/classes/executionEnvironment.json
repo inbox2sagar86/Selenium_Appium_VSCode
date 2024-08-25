@@ -1,0 +1,30 @@
+{
+    "localBrowser": {
+      "Chrome": {
+        "driverPath": "C:\\users\\chromeDriver.exe"
+      },
+      "FireFox": {
+        "driverPath": "C:\\users\\geckoDriver.exe"
+      },
+      "Edge": {
+        "driverPath": "C:\\users\\edgeDriver.exe"
+      }
+    },
+    "mobile": {
+      "deviceModel": "Realme C11",
+      "udid": "12345",
+      "appactivity": "main",
+      "appName": "flipkart"
+    },
+    "cloud": {
+      "BrowserStack": {
+        "accesstoken": "abcd",
+        "key": "efgh"
+      },
+      "SauceLabs": {
+        "accesstoken": "abcd",
+        "key": "efgh"
+      }
+    },
+    "WebDriverManager": "chrome"
+  }
